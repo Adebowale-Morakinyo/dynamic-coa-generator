@@ -1,0 +1,35 @@
+{
+    "title": "Certificate of Analysis",
+    "header": {
+      "product_name": "L-CARNITINE, CO-ENZYME Q10, ZINC, LYCOPENE, AND ASTAXANTHIN TABLETS",
+      "batch_number": "",
+      "manufacture_date": "",
+      "expiry_date": "",
+      "manufactured_by": "PharmaTech Ltd.",
+      "tested_by": "Quality Assurance Department"
+    },
+    "sections": [
+      {
+        "title": "Description and Appearance",
+        "content_type": "text",
+        "content": ""
+      },
+      {
+        "title": "Assay Results",
+        "content_type": "table",
+        "columns": ["Parameter", "Specification", "Result"],
+        "data": []
+      },
+      {
+        "title": "Microbial Analysis",
+        "content_type": "table",
+        "columns": ["Test", "Specification", "Result"],
+        "data": []
+      }
+    ],
+    "footer": {
+      "approval_signature": "Authorized Signature",
+      "date_of_approval": ""
+    }
+  }
+  
