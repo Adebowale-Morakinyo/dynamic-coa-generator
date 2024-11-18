@@ -1,0 +1,17 @@
+{
+    "header": {
+      "product_code": "P508",
+      "batch_number": "B12345"
+    },
+    "sections": {
+      "Bill of Raw Materials": [
+        ["1", "RMA/0129", "Ubidecarenone BP (Co-Enzyme Q10)", "10% DA", "55.000", "5.500"],
+        ["2", "RME/0021", "Crospovidone IP", "Polyplasdone XL10", "3.000", "0.300"]
+      ],
+      "Environmental Conditions": [
+        ["Temperature (25±2°C)", "25°C", "Yes", "26°C", "Yes"],
+        ["Relative Humidity (40-60% RH)", "50%", "Yes", "48%", "Yes"]
+      ]
+    }
+  }
+  

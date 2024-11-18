@@ -1,0 +1,32 @@
+{
+    "header": {
+      "product": "L-CARNITINE, CO-ENZYME Q10, ZINC, LYCOPENE, AND ASTAXANTHIN TABLETS",
+      "product_code": "P508",
+      "bmr_no": "P508",
+      "revision_no": "00",
+      "batch_size": "50,000 Tablets",
+      "effective_date": "10/08/22"
+    },
+    "footer": {
+      "prepared_by": "Production",
+      "reviewed_by": "Production",
+      "approved_by": "QA",
+      "qa": "QA",
+      "bmr_issued_by": "QA"
+    },
+    "sections": [
+      {
+        "title": "Bill of Raw Materials",
+        "type": "table",
+        "columns": ["S.No.", "Material Code", "Raw Material Description", "Grade/Specific Requirement", "mg/tab", "Qty For IL Batch (kg)"],
+        "data": []
+      },
+      {
+        "title": "Environmental Conditions",
+        "type": "table",
+        "columns": ["Test Parameters", "Observed", "Verified (QA)", "Observed", "Verified (QA)"],
+        "data": []
+      }
+    ]
+  }
+  
